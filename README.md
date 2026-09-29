@@ -1,3 +1,11 @@
+<div align="center">
+
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:c4b5fd,55:ddd6fe,100:fbcfe8&text=Park%20Se%20In&fontColor=59436b&fontSize=44&fontAlign=50&fontAlignY=38&desc=Java%20%2F%20Spring%20%2F%20Backend%20Developer&descAlign=50&descAlignY=58&descSize=18)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=2600&pause=900&color=9775BA&center=true&vCenter=true&width=760&lines=Java+%2F+Spring+%2F+Backend+Developer;Java+%2F+Spring+%2F+Database;Build+reliable+service+flows)
+
+</div>
+
 ## About
 
 Java/Spring 기반 백엔드·API 개발자를 목표로 학습하고 프로젝트 경험을 쌓고 있는 박세인입니다.
