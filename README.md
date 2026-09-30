@@ -63,3 +63,14 @@ Java/Spring 기반 백엔드·API 개발자를 목표로 학습하고 프로젝�
 
 ![Python](https://img.shields.io/badge/Python-CDB4DB?style=flat-square&logo=python&logoColor=59436B)
 ![AI Agent Harness](https://img.shields.io/badge/AI_Agent_Harness-FFC8DD?style=flat-square&logo=openai&logoColor=59436B)
+
+
+## Resume Highlights
+
+| Category | Details |
+|---|---|
+| Position | Backend / API Developer |
+| Education | 부천대학교 컴퓨터소프트웨어과 |
+| Training | 에이콘아카데미 자바 클라우드 풀스택 웹 개발자 양성 과정 |
+| Strengths | Java/Spring, Database, API 연동, 결제·권한 관리 |
+| Award | 에이콘아카데미 최종 프로젝트 최우수상 |
