@@ -16,8 +16,6 @@ Java/Spring 기반 백엔드·API 개발자를 목표로 학습하고 프로젝�
 - 에이콘아카데미 Java 백엔드 개발자 양성 과정에서 AWS, Docker, Kubernetes, GitHub Actions를 활용한 CI/CD 파이프라인을 구축하고 활용했습니다.
 - AI Agent Harness 구축과 LLM Wiki 활용을 경험하고 있습니다.
 
-[![이력서](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-CDB4DB?style=for-the-badge&logo=readthedocs&logoColor=59436B)](./resume/Park_Sein_Backend_Resume.pdf)
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-sein190504%40gmail.com-FFC8DD?style=for-the-badge&logo=gmail&logoColor=59436B&labelColor=CDB4DB)](mailto:sein190504@gmail.com)
